@@ -1,4 +1,4 @@
-# Bone-Mineral-Density-Estimation-from-Conventional-X-rays-via-Reinforcement-Learning
+# Bone-Mineral-Density-Estimation-from-Conventional-X-rays-using-Deep-Learning
 
 DEXA scans, the gold standard for measuring bone mineral density and T-scores, are **not widely available** in many regions of Sri Lanka and around the world due to their **high cost** and the need for dual X-ray technology.
 
